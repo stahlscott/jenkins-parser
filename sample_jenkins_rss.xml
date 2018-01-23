@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed 
+    xmlns="http://www.w3.org/2005/Atom">
+    <title>OnShift-OnShift all builds</title>
+    <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/"/>
+    <updated>2018-01-23T15:30:06Z</updated>
+    <author>
+        <name>Jenkins Server</name>
+    </author>
+    <entry>
+        <title>OnShift-OnShift » PR-5180 #8 (broken since build #6)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5180/8/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5180:8</id>
+        <published>2018-01-23T15:30:06Z</published>
+        <updated>2018-01-23T15:30:06Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #19 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/19/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:19</id>
+        <published>2018-01-23T14:57:05Z</published>
+        <updated>2018-01-23T14:57:05Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5190 #2 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5190/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5190:2</id>
+        <published>2018-01-23T14:55:39Z</published>
+        <updated>2018-01-23T14:55:39Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5192 #1 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5192/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5192:1</id>
+        <published>2018-01-23T14:51:01Z</published>
+        <updated>2018-01-23T14:51:01Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5185 #4 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5185/4/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5185:4</id>
+        <published>2018-01-23T14:25:03Z</published>
+        <updated>2018-01-23T14:25:03Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5180 #7 (broken since build #6)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5180/7/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5180:7</id>
+        <published>2018-01-23T14:15:54Z</published>
+        <updated>2018-01-23T14:15:54Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5185 #3 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5185/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5185:3</id>
+        <published>2018-01-23T14:03:46Z</published>
+        <updated>2018-01-23T14:03:46Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » release/1.109.0_budget_test #9 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/release%252F1.109.0_budget_test/9/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/release%2F1.109.0_budget_test:9</id>
+        <published>2018-01-23T13:52:14Z</published>
+        <updated>2018-01-23T13:52:14Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5180 #6 (broken since build #6)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5180/6/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5180:6</id>
+        <published>2018-01-23T12:10:34Z</published>
+        <updated>2018-01-23T12:10:34Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5190 #1 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5190/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5190:1</id>
+        <published>2018-01-23T04:01:24Z</published>
+        <updated>2018-01-23T04:01:24Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5135 #34 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5135/34/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5135:34</id>
+        <published>2018-01-23T01:51:33Z</published>
+        <updated>2018-01-23T01:51:33Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #18 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/18/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:18</id>
+        <published>2018-01-23T01:51:32Z</published>
+        <updated>2018-01-23T01:51:32Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5161 #13 (broken since build #12)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5161/13/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5161:13</id>
+        <published>2018-01-23T01:51:31Z</published>
+        <updated>2018-01-23T01:51:31Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5173 #3 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5173/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5173:3</id>
+        <published>2018-01-23T01:51:31Z</published>
+        <updated>2018-01-23T01:51:31Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5177 #3 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5177/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5177:3</id>
+        <published>2018-01-23T01:51:30Z</published>
+        <updated>2018-01-23T01:51:30Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5180 #5 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5180/5/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5180:5</id>
+        <published>2018-01-23T01:51:29Z</published>
+        <updated>2018-01-23T01:51:29Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5185 #2 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5185/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5185:2</id>
+        <published>2018-01-23T01:51:29Z</published>
+        <updated>2018-01-23T01:51:29Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5188 #2 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5188/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5188:2</id>
+        <published>2018-01-23T01:51:28Z</published>
+        <updated>2018-01-23T01:51:28Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #681 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/681/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:681</id>
+        <published>2018-01-23T01:39:53Z</published>
+        <updated>2018-01-23T01:39:53Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #680 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/680/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:680</id>
+        <published>2018-01-23T01:08:28Z</published>
+        <updated>2018-01-23T01:08:28Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #679 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/679/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:679</id>
+        <published>2018-01-23T01:07:32Z</published>
+        <updated>2018-01-23T01:07:32Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5189 #2 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5189/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5189:2</id>
+        <published>2018-01-23T00:41:05Z</published>
+        <updated>2018-01-23T00:41:05Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5189 #1 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5189/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5189:1</id>
+        <published>2018-01-23T00:23:48Z</published>
+        <updated>2018-01-23T00:23:48Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #678 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/678/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:678</id>
+        <published>2018-01-22T23:19:03Z</published>
+        <updated>2018-01-22T23:19:03Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5188 #1 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5188/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5188:1</id>
+        <published>2018-01-22T22:55:42Z</published>
+        <updated>2018-01-22T22:55:42Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #677 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/677/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:677</id>
+        <published>2018-01-22T22:44:03Z</published>
+        <updated>2018-01-22T22:44:03Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5184 #5 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5184/5/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5184:5</id>
+        <published>2018-01-22T22:34:31Z</published>
+        <updated>2018-01-22T22:34:31Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5184 #4 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5184/4/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5184:4</id>
+        <published>2018-01-22T22:19:41Z</published>
+        <updated>2018-01-22T22:19:41Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #676 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/676/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:676</id>
+        <published>2018-01-22T22:18:16Z</published>
+        <updated>2018-01-22T22:18:16Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5184 #3 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5184/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5184:3</id>
+        <published>2018-01-22T22:15:37Z</published>
+        <updated>2018-01-22T22:15:37Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5184 #2 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5184/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5184:2</id>
+        <published>2018-01-22T22:14:59Z</published>
+        <updated>2018-01-22T22:14:59Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5187 #1 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5187/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5187:1</id>
+        <published>2018-01-22T22:10:45Z</published>
+        <updated>2018-01-22T22:10:45Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5186 #2 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5186/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5186:2</id>
+        <published>2018-01-22T22:09:30Z</published>
+        <updated>2018-01-22T22:09:30Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5186 #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5186/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5186:1</id>
+        <published>2018-01-22T22:02:07Z</published>
+        <updated>2018-01-22T22:02:07Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » revert-5168-NT-24-implement-feature-toggle-db-ref #1 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/revert-5168-NT-24-implement-feature-toggle-db-ref/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/revert-5168-NT-24-implement-feature-toggle-db-ref:1</id>
+        <published>2018-01-22T22:01:47Z</published>
+        <updated>2018-01-22T22:01:47Z</updated>
+    </entry>
+    <entry>
+        <title>Docker-Bazman-Base-Publish » master #12 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/Docker-Bazman-Base-Publish/job/master/12/"/>
+        <id>tag:hudson.dev.java.net,2018:Docker-Bazman-Base-Publish/master:12</id>
+        <published>2018-01-22T21:51:05Z</published>
+        <updated>2018-01-22T21:51:05Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5185 #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5185/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5185:1</id>
+        <published>2018-01-22T21:50:33Z</published>
+        <updated>2018-01-22T21:50:33Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #24 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/24/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:24</id>
+        <published>2018-01-22T21:45:54Z</published>
+        <updated>2018-01-22T21:45:54Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5184 #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5184/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5184:1</id>
+        <published>2018-01-22T21:42:57Z</published>
+        <updated>2018-01-22T21:42:57Z</updated>
+    </entry>
+    <entry>
+        <title>Docker-Bazman-Base-Publish » PR-3 #6 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/Docker-Bazman-Base-Publish/job/PR-3/6/"/>
+        <id>tag:hudson.dev.java.net,2018:Docker-Bazman-Base-Publish/PR-3:6</id>
+        <published>2018-01-22T21:41:22Z</published>
+        <updated>2018-01-22T21:41:22Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #17 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/17/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:17</id>
+        <published>2018-01-22T21:34:46Z</published>
+        <updated>2018-01-22T21:34:46Z</updated>
+    </entry>
+    <entry>
+        <title>Docker-Bazman-Base-Publish » PR-3 #5 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/Docker-Bazman-Base-Publish/job/PR-3/5/"/>
+        <id>tag:hudson.dev.java.net,2018:Docker-Bazman-Base-Publish/PR-3:5</id>
+        <published>2018-01-22T21:29:53Z</published>
+        <updated>2018-01-22T21:29:53Z</updated>
+    </entry>
+    <entry>
+        <title>Docker-Bazman-Base-Publish » PR-3 #4 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/Docker-Bazman-Base-Publish/job/PR-3/4/"/>
+        <id>tag:hudson.dev.java.net,2018:Docker-Bazman-Base-Publish/PR-3:4</id>
+        <published>2018-01-22T21:27:12Z</published>
+        <updated>2018-01-22T21:27:12Z</updated>
+    </entry>
+    <entry>
+        <title>Docker-Bazman-Base-Publish » PR-3 #3 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/Docker-Bazman-Base-Publish/job/PR-3/3/"/>
+        <id>tag:hudson.dev.java.net,2018:Docker-Bazman-Base-Publish/PR-3:3</id>
+        <published>2018-01-22T21:23:52Z</published>
+        <updated>2018-01-22T21:23:52Z</updated>
+    </entry>
+    <entry>
+        <title>Docker-Bazman-Base-Publish » PR-3 #2 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/Docker-Bazman-Base-Publish/job/PR-3/2/"/>
+        <id>tag:hudson.dev.java.net,2018:Docker-Bazman-Base-Publish/PR-3:2</id>
+        <published>2018-01-22T21:21:24Z</published>
+        <updated>2018-01-22T21:21:24Z</updated>
+    </entry>
+    <entry>
+        <title>Docker-Bazman-Base-Publish » PR-3 #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/Docker-Bazman-Base-Publish/job/PR-3/1/"/>
+        <id>tag:hudson.dev.java.net,2018:Docker-Bazman-Base-Publish/PR-3:1</id>
+        <published>2018-01-22T21:18:45Z</published>
+        <updated>2018-01-22T21:18:45Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #23 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/23/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:23</id>
+        <published>2018-01-22T21:04:45Z</published>
+        <updated>2018-01-22T21:04:45Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #16 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/16/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:16</id>
+        <published>2018-01-22T20:52:39Z</published>
+        <updated>2018-01-22T20:52:39Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5135 #33 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5135/33/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5135:33</id>
+        <published>2018-01-22T20:51:35Z</published>
+        <updated>2018-01-22T20:51:35Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #15 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/15/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:15</id>
+        <published>2018-01-22T20:51:34Z</published>
+        <updated>2018-01-22T20:51:34Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5161 #12 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5161/12/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5161:12</id>
+        <published>2018-01-22T20:51:33Z</published>
+        <updated>2018-01-22T20:51:33Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #22 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/22/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:22</id>
+        <published>2018-01-22T20:51:33Z</published>
+        <updated>2018-01-22T20:51:33Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5173 #2 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5173/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5173:2</id>
+        <published>2018-01-22T20:51:32Z</published>
+        <updated>2018-01-22T20:51:32Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5177 #2 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5177/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5177:2</id>
+        <published>2018-01-22T20:51:31Z</published>
+        <updated>2018-01-22T20:51:31Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5180 #4 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5180/4/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5180:4</id>
+        <published>2018-01-22T20:51:30Z</published>
+        <updated>2018-01-22T20:51:30Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #675 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/675/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:675</id>
+        <published>2018-01-22T20:47:06Z</published>
+        <updated>2018-01-22T20:47:06Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5161 #11 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5161/11/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5161:11</id>
+        <published>2018-01-22T20:45:29Z</published>
+        <updated>2018-01-22T20:45:29Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » faster-static-docker-build #11 (broken since build #10)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/faster-static-docker-build/11/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/faster-static-docker-build:11</id>
+        <published>2018-01-22T20:45:28Z</published>
+        <updated>2018-01-22T20:45:28Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #674 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/674/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:674</id>
+        <published>2018-01-22T20:42:36Z</published>
+        <updated>2018-01-22T20:42:36Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #21 (broken since build #20)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/21/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:21</id>
+        <published>2018-01-22T20:35:58Z</published>
+        <updated>2018-01-22T20:35:58Z</updated>
+    </entry>
+    <entry>
+        <title>Docker-Bazman-Base-Publish » master #11 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/Docker-Bazman-Base-Publish/job/master/11/"/>
+        <id>tag:hudson.dev.java.net,2018:Docker-Bazman-Base-Publish/master:11</id>
+        <published>2018-01-22T20:20:23Z</published>
+        <updated>2018-01-22T20:20:23Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5183 #1 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5183/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5183:1</id>
+        <published>2018-01-22T20:17:34Z</published>
+        <updated>2018-01-22T20:17:34Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #14 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/14/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:14</id>
+        <published>2018-01-22T20:13:41Z</published>
+        <updated>2018-01-22T20:13:41Z</updated>
+    </entry>
+    <entry>
+        <title>Docker-Bazman-Base-Publish » PR-2 #2 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/Docker-Bazman-Base-Publish/job/PR-2/2/"/>
+        <id>tag:hudson.dev.java.net,2018:Docker-Bazman-Base-Publish/PR-2:2</id>
+        <published>2018-01-22T20:12:35Z</published>
+        <updated>2018-01-22T20:12:35Z</updated>
+    </entry>
+    <entry>
+        <title>Docker-Bazman-Base-Publish » PR-2 #1 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/Docker-Bazman-Base-Publish/job/PR-2/1/"/>
+        <id>tag:hudson.dev.java.net,2018:Docker-Bazman-Base-Publish/PR-2:1</id>
+        <published>2018-01-22T20:11:15Z</published>
+        <updated>2018-01-22T20:11:15Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5180 #3 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5180/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5180:3</id>
+        <published>2018-01-22T20:10:49Z</published>
+        <updated>2018-01-22T20:10:49Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #673 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/673/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:673</id>
+        <published>2018-01-22T20:05:43Z</published>
+        <updated>2018-01-22T20:05:43Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5182 #1 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5182/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5182:1</id>
+        <published>2018-01-22T20:03:01Z</published>
+        <updated>2018-01-22T20:03:01Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5132 #17 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5132/17/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5132:17</id>
+        <published>2018-01-22T20:01:52Z</published>
+        <updated>2018-01-22T20:01:52Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #20 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/20/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:20</id>
+        <published>2018-01-22T19:57:53Z</published>
+        <updated>2018-01-22T19:57:53Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #19 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/19/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:19</id>
+        <published>2018-01-22T19:57:15Z</published>
+        <updated>2018-01-22T19:57:15Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #672 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/672/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:672</id>
+        <published>2018-01-22T19:46:44Z</published>
+        <updated>2018-01-22T19:46:44Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5176 #8 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5176/8/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5176:8</id>
+        <published>2018-01-22T19:33:34Z</published>
+        <updated>2018-01-22T19:33:34Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5176 #7 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5176/7/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5176:7</id>
+        <published>2018-01-22T19:31:53Z</published>
+        <updated>2018-01-22T19:31:53Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5132 #16 (broken since build #13)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5132/16/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5132:16</id>
+        <published>2018-01-22T19:25:50Z</published>
+        <updated>2018-01-22T19:25:50Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #671 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/671/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:671</id>
+        <published>2018-01-22T19:20:44Z</published>
+        <updated>2018-01-22T19:20:44Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5181 #1 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5181/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5181:1</id>
+        <published>2018-01-22T19:15:46Z</published>
+        <updated>2018-01-22T19:15:46Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5176 #6 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5176/6/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5176:6</id>
+        <published>2018-01-22T19:07:37Z</published>
+        <updated>2018-01-22T19:07:37Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5176 #5 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5176/5/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5176:5</id>
+        <published>2018-01-22T18:58:18Z</published>
+        <updated>2018-01-22T18:58:18Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5176 #4 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5176/4/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5176:4</id>
+        <published>2018-01-22T18:57:28Z</published>
+        <updated>2018-01-22T18:57:28Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5180 #2 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5180/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5180:2</id>
+        <published>2018-01-22T18:57:18Z</published>
+        <updated>2018-01-22T18:57:18Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #670 (broken since build #669)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/670/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:670</id>
+        <published>2018-01-22T18:55:15Z</published>
+        <updated>2018-01-22T18:55:15Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #669 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/669/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:669</id>
+        <published>2018-01-22T18:46:11Z</published>
+        <updated>2018-01-22T18:46:11Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5176 #3 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5176/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5176:3</id>
+        <published>2018-01-22T18:42:06Z</published>
+        <updated>2018-01-22T18:42:06Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5176 #2 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5176/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5176:2</id>
+        <published>2018-01-22T18:35:27Z</published>
+        <updated>2018-01-22T18:35:27Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #18 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/18/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:18</id>
+        <published>2018-01-22T18:30:44Z</published>
+        <updated>2018-01-22T18:30:44Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #668 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/668/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:668</id>
+        <published>2018-01-22T18:27:26Z</published>
+        <updated>2018-01-22T18:27:26Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5178 #8 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5178/8/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5178:8</id>
+        <published>2018-01-22T18:15:46Z</published>
+        <updated>2018-01-22T18:15:46Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5175 #2 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5175/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5175:2</id>
+        <published>2018-01-22T18:14:40Z</published>
+        <updated>2018-01-22T18:14:40Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #17 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/17/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:17</id>
+        <published>2018-01-22T17:54:54Z</published>
+        <updated>2018-01-22T17:54:54Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5174 #11 (broken since build #10)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5174/11/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5174:11</id>
+        <published>2018-01-22T17:48:15Z</published>
+        <updated>2018-01-22T17:48:15Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5178 #7 (broken since build #6)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5178/7/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5178:7</id>
+        <published>2018-01-22T17:43:26Z</published>
+        <updated>2018-01-22T17:43:26Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #13 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/13/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:13</id>
+        <published>2018-01-22T17:41:39Z</published>
+        <updated>2018-01-22T17:41:39Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #14 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/14/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:14</id>
+        <published>2018-01-22T17:41:31Z</published>
+        <updated>2018-01-22T17:41:31Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #16 (broken since build #14)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/16/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:16</id>
+        <published>2018-01-22T17:40:26Z</published>
+        <updated>2018-01-22T17:40:26Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #667 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/667/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:667</id>
+        <published>2018-01-22T17:39:23Z</published>
+        <updated>2018-01-22T17:39:23Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #13 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/13/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:13</id>
+        <published>2018-01-22T17:31:29Z</published>
+        <updated>2018-01-22T17:31:29Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #15 (broken since build #14)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/15/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:15</id>
+        <published>2018-01-22T17:27:22Z</published>
+        <updated>2018-01-22T17:27:22Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #12 (broken since build #12)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/12/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:12</id>
+        <published>2018-01-22T17:16:19Z</published>
+        <updated>2018-01-22T17:16:19Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5178 #6 (broken since build #6)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5178/6/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5178:6</id>
+        <published>2018-01-22T17:15:24Z</published>
+        <updated>2018-01-22T17:15:24Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5180 #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5180/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5180:1</id>
+        <published>2018-01-22T17:11:50Z</published>
+        <updated>2018-01-22T17:11:50Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #11 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/11/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:11</id>
+        <published>2018-01-22T17:09:47Z</published>
+        <updated>2018-01-22T17:09:47Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #10 (broken since build #7)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/10/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:10</id>
+        <published>2018-01-22T17:08:47Z</published>
+        <updated>2018-01-22T17:08:47Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #9 (broken since build #7)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/9/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:9</id>
+        <published>2018-01-22T17:07:29Z</published>
+        <updated>2018-01-22T17:07:29Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5178 #5 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5178/5/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5178:5</id>
+        <published>2018-01-22T17:05:05Z</published>
+        <updated>2018-01-22T17:05:05Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5178 #4 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5178/4/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5178:4</id>
+        <published>2018-01-22T16:59:33Z</published>
+        <updated>2018-01-22T16:59:33Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #12 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/12/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:12</id>
+        <published>2018-01-22T16:58:55Z</published>
+        <updated>2018-01-22T16:58:55Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5179 #2 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5179/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5179:2</id>
+        <published>2018-01-22T16:58:31Z</published>
+        <updated>2018-01-22T16:58:31Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5179 #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5179/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5179:1</id>
+        <published>2018-01-22T16:43:29Z</published>
+        <updated>2018-01-22T16:43:29Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5178 #3 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5178/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5178:3</id>
+        <published>2018-01-22T16:36:24Z</published>
+        <updated>2018-01-22T16:36:24Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5174 #10 (broken since build #10)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5174/10/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5174:10</id>
+        <published>2018-01-22T16:31:37Z</published>
+        <updated>2018-01-22T16:31:37Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #8 (broken since build #7)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/8/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:8</id>
+        <published>2018-01-22T16:30:25Z</published>
+        <updated>2018-01-22T16:30:25Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5174 #9 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5174/9/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5174:9</id>
+        <published>2018-01-22T16:29:20Z</published>
+        <updated>2018-01-22T16:29:20Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5174 #8 (broken since build #4)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5174/8/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5174:8</id>
+        <published>2018-01-22T16:26:53Z</published>
+        <updated>2018-01-22T16:26:53Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5174 #7 (broken since build #4)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5174/7/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5174:7</id>
+        <published>2018-01-22T16:21:42Z</published>
+        <updated>2018-01-22T16:21:42Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #14 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/14/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:14</id>
+        <published>2018-01-22T16:15:28Z</published>
+        <updated>2018-01-22T16:15:28Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5178 #2 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5178/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5178:2</id>
+        <published>2018-01-22T16:07:05Z</published>
+        <updated>2018-01-22T16:07:05Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5174 #6 (broken since build #4)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5174/6/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5174:6</id>
+        <published>2018-01-22T15:54:13Z</published>
+        <updated>2018-01-22T15:54:13Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5178 #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5178/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5178:1</id>
+        <published>2018-01-22T15:48:26Z</published>
+        <updated>2018-01-22T15:48:26Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5174 #5 (broken since build #4)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5174/5/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5174:5</id>
+        <published>2018-01-22T15:48:18Z</published>
+        <updated>2018-01-22T15:48:18Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5177 #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5177/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5177:1</id>
+        <published>2018-01-22T15:43:01Z</published>
+        <updated>2018-01-22T15:43:01Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #7 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/7/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:7</id>
+        <published>2018-01-22T15:40:31Z</published>
+        <updated>2018-01-22T15:40:31Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5176 #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5176/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5176:1</id>
+        <published>2018-01-22T15:01:10Z</published>
+        <updated>2018-01-22T15:01:10Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5174 #4 (broken since build #4)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5174/4/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5174:4</id>
+        <published>2018-01-22T14:54:57Z</published>
+        <updated>2018-01-22T14:54:57Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5174 #3 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5174/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5174:3</id>
+        <published>2018-01-22T14:45:34Z</published>
+        <updated>2018-01-22T14:45:34Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5174 #2 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5174/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5174:2</id>
+        <published>2018-01-22T14:43:32Z</published>
+        <updated>2018-01-22T14:43:32Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5175 #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5175/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5175:1</id>
+        <published>2018-01-22T14:20:39Z</published>
+        <updated>2018-01-22T14:20:39Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5174 #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5174/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5174:1</id>
+        <published>2018-01-22T13:46:44Z</published>
+        <updated>2018-01-22T13:46:44Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » release/1.109.0_budget_test #8 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/release%252F1.109.0_budget_test/8/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/release%2F1.109.0_budget_test:8</id>
+        <published>2018-01-22T01:29:09Z</published>
+        <updated>2018-01-22T01:29:09Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » release/1.109.0_budget_test #7 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/release%252F1.109.0_budget_test/7/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/release%2F1.109.0_budget_test:7</id>
+        <published>2018-01-22T01:28:54Z</published>
+        <updated>2018-01-22T01:28:54Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » release/1.109.0_budget_test #6 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/release%252F1.109.0_budget_test/6/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/release%2F1.109.0_budget_test:6</id>
+        <published>2018-01-22T01:28:48Z</published>
+        <updated>2018-01-22T01:28:48Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » release/1.109.0_budget_test #5 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/release%252F1.109.0_budget_test/5/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/release%2F1.109.0_budget_test:5</id>
+        <published>2018-01-21T23:41:41Z</published>
+        <updated>2018-01-21T23:41:41Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » release/1.109.0_budget_test #4 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/release%252F1.109.0_budget_test/4/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/release%2F1.109.0_budget_test:4</id>
+        <published>2018-01-21T18:51:27Z</published>
+        <updated>2018-01-21T18:51:27Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » faster-static-docker-build #10 (broken since build #10)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/faster-static-docker-build/10/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/faster-static-docker-build:10</id>
+        <published>2018-01-21T18:15:54Z</published>
+        <updated>2018-01-21T18:15:54Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » faster-static-docker-build #9 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/faster-static-docker-build/9/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/faster-static-docker-build:9</id>
+        <published>2018-01-20T11:50:31Z</published>
+        <updated>2018-01-20T11:50:31Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5132 #15 (broken since build #13)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5132/15/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5132:15</id>
+        <published>2018-01-20T11:47:01Z</published>
+        <updated>2018-01-20T11:47:01Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #13 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/13/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:13</id>
+        <published>2018-01-20T01:10:20Z</published>
+        <updated>2018-01-20T01:10:20Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #12 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/12/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:12</id>
+        <published>2018-01-20T00:51:04Z</published>
+        <updated>2018-01-20T00:51:04Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #11 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/11/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:11</id>
+        <published>2018-01-20T00:26:17Z</published>
+        <updated>2018-01-20T00:26:17Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5173 #1 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5173/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5173:1</id>
+        <published>2018-01-20T00:21:48Z</published>
+        <updated>2018-01-20T00:21:48Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #10 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/10/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:10</id>
+        <published>2018-01-20T00:07:44Z</published>
+        <updated>2018-01-20T00:07:44Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #9 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/9/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:9</id>
+        <published>2018-01-19T23:42:10Z</published>
+        <updated>2018-01-19T23:42:10Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #6 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/6/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:6</id>
+        <published>2018-01-19T23:38:13Z</published>
+        <updated>2018-01-19T23:38:13Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #8 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/8/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:8</id>
+        <published>2018-01-19T23:17:07Z</published>
+        <updated>2018-01-19T23:17:07Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #7 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/7/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:7</id>
+        <published>2018-01-19T23:13:37Z</published>
+        <updated>2018-01-19T23:13:37Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #5 (broken since build #2)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/5/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:5</id>
+        <published>2018-01-19T23:12:49Z</published>
+        <updated>2018-01-19T23:12:49Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5132 #14 (broken since build #13)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5132/14/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5132:14</id>
+        <published>2018-01-19T21:52:53Z</published>
+        <updated>2018-01-19T21:52:53Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5135 #32 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5135/32/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5135:32</id>
+        <published>2018-01-19T21:52:51Z</published>
+        <updated>2018-01-19T21:52:51Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #11 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/11/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:11</id>
+        <published>2018-01-19T21:52:48Z</published>
+        <updated>2018-01-19T21:52:48Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5161 #10 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5161/10/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5161:10</id>
+        <published>2018-01-19T21:52:46Z</published>
+        <updated>2018-01-19T21:52:46Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #6 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/6/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:6</id>
+        <published>2018-01-19T21:52:43Z</published>
+        <updated>2018-01-19T21:52:43Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #4 (broken since build #2)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/4/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:4</id>
+        <published>2018-01-19T21:09:37Z</published>
+        <updated>2018-01-19T21:09:37Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » release/1.109.0_budget_test #3 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/release%252F1.109.0_budget_test/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/release%2F1.109.0_budget_test:3</id>
+        <published>2018-01-19T20:47:19Z</published>
+        <updated>2018-01-19T20:47:19Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #666 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/666/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:666</id>
+        <published>2018-01-19T19:59:25Z</published>
+        <updated>2018-01-19T19:59:25Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #5 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/5/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:5</id>
+        <published>2018-01-19T19:56:34Z</published>
+        <updated>2018-01-19T19:56:34Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #3 (broken since build #2)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:3</id>
+        <published>2018-01-19T19:55:25Z</published>
+        <updated>2018-01-19T19:55:25Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #4 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/4/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:4</id>
+        <published>2018-01-19T18:53:43Z</published>
+        <updated>2018-01-19T18:53:43Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5132 #13 (broken since build #13)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5132/13/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5132:13</id>
+        <published>2018-01-19T16:53:02Z</published>
+        <updated>2018-01-19T16:53:02Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5135 #31 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5135/31/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5135:31</id>
+        <published>2018-01-19T16:53:00Z</published>
+        <updated>2018-01-19T16:53:00Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #10 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/10/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:10</id>
+        <published>2018-01-19T16:52:52Z</published>
+        <updated>2018-01-19T16:52:52Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5161 #9 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5161/9/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5161:9</id>
+        <published>2018-01-19T16:52:50Z</published>
+        <updated>2018-01-19T16:52:50Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #2 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:2</id>
+        <published>2018-01-19T16:52:47Z</published>
+        <updated>2018-01-19T16:52:47Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #3 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:3</id>
+        <published>2018-01-19T16:52:46Z</published>
+        <updated>2018-01-19T16:52:46Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #665 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/665/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:665</id>
+        <published>2018-01-19T16:19:30Z</published>
+        <updated>2018-01-19T16:19:30Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #2 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:2</id>
+        <published>2018-01-19T16:18:17Z</published>
+        <updated>2018-01-19T16:18:17Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5172 #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5172/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5172:1</id>
+        <published>2018-01-19T16:13:10Z</published>
+        <updated>2018-01-19T16:13:10Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » release/1.109.0_budget_test #2-QA (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/release%252F1.109.0_budget_test/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/release%2F1.109.0_budget_test:2</id>
+        <published>2018-01-19T16:09:26Z</published>
+        <updated>2018-01-19T16:09:26Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #664 (broken since build #662)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/664/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:664</id>
+        <published>2018-01-19T16:04:34Z</published>
+        <updated>2018-01-19T16:04:34Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » release/1.109.0_budget_test #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/release%252F1.109.0_budget_test/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/release%2F1.109.0_budget_test:1</id>
+        <published>2018-01-19T15:20:44Z</published>
+        <updated>2018-01-19T15:20:44Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #9 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/9/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:9</id>
+        <published>2018-01-19T15:07:09Z</published>
+        <updated>2018-01-19T15:07:09Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #663 (broken since build #662)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/663/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:663</id>
+        <published>2018-01-19T14:59:40Z</published>
+        <updated>2018-01-19T14:59:40Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #662 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/662/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:662</id>
+        <published>2018-01-19T14:59:25Z</published>
+        <updated>2018-01-19T14:59:25Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #661 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/661/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:661</id>
+        <published>2018-01-19T14:12:03Z</published>
+        <updated>2018-01-19T14:12:03Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5168 #1 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5168/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5168:1</id>
+        <published>2018-01-18T21:31:51Z</published>
+        <updated>2018-01-18T21:31:51Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5132 #12 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5132/12/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5132:12</id>
+        <published>2018-01-18T20:53:05Z</published>
+        <updated>2018-01-18T20:53:05Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5135 #30 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5135/30/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5135:30</id>
+        <published>2018-01-18T20:53:03Z</published>
+        <updated>2018-01-18T20:53:03Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #8 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/8/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:8</id>
+        <published>2018-01-18T20:52:56Z</published>
+        <updated>2018-01-18T20:52:56Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5161 #8 (broken since build #7)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5161/8/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5161:8</id>
+        <published>2018-01-18T20:15:42Z</published>
+        <updated>2018-01-18T20:15:42Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » faster-static-docker-build #8 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/faster-static-docker-build/8/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/faster-static-docker-build:8</id>
+        <published>2018-01-18T20:15:37Z</published>
+        <updated>2018-01-18T20:15:37Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5161 #7 (broken since build #7)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5161/7/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5161:7</id>
+        <published>2018-01-18T19:03:11Z</published>
+        <updated>2018-01-18T19:03:11Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » faster-static-docker-build #7 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/faster-static-docker-build/7/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/faster-static-docker-build:7</id>
+        <published>2018-01-18T19:03:10Z</published>
+        <updated>2018-01-18T19:03:10Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #660 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/660/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:660</id>
+        <published>2018-01-18T18:55:18Z</published>
+        <updated>2018-01-18T18:55:18Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #659 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/659/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:659</id>
+        <published>2018-01-18T16:54:40Z</published>
+        <updated>2018-01-18T16:54:40Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #7 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/7/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:7</id>
+        <published>2018-01-18T15:54:17Z</published>
+        <updated>2018-01-18T15:54:17Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5132 #11 (broken since build #10)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5132/11/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5132:11</id>
+        <published>2018-01-18T15:53:29Z</published>
+        <updated>2018-01-18T15:53:29Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5135 #29 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5135/29/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5135:29</id>
+        <published>2018-01-18T15:53:27Z</published>
+        <updated>2018-01-18T15:53:27Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #6 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/6/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:6</id>
+        <published>2018-01-18T15:53:19Z</published>
+        <updated>2018-01-18T15:53:19Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5161 #6 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5161/6/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5161:6</id>
+        <published>2018-01-18T15:53:17Z</published>
+        <updated>2018-01-18T15:53:17Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #658 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/658/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:658</id>
+        <published>2018-01-18T12:16:42Z</published>
+        <updated>2018-01-18T12:16:42Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5161 #5 (aborted)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5161/5/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5161:5</id>
+        <published>2018-01-18T02:59:20Z</published>
+        <updated>2018-01-18T02:59:20Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » faster-static-docker-build #6 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/faster-static-docker-build/6/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/faster-static-docker-build:6</id>
+        <published>2018-01-18T02:59:19Z</published>
+        <updated>2018-01-18T02:59:19Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5161 #4 (broken since build #2)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5161/4/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5161:4</id>
+        <published>2018-01-18T02:30:06Z</published>
+        <updated>2018-01-18T02:30:06Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » faster-static-docker-build #5 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/faster-static-docker-build/5/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/faster-static-docker-build:5</id>
+        <published>2018-01-18T02:30:03Z</published>
+        <updated>2018-01-18T02:30:03Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » faster-static-docker-build #4 (broken since build #3)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/faster-static-docker-build/4/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/faster-static-docker-build:4</id>
+        <published>2018-01-18T01:56:51Z</published>
+        <updated>2018-01-18T01:56:51Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5161 #3 (broken since build #2)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5161/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5161:3</id>
+        <published>2018-01-18T01:45:17Z</published>
+        <updated>2018-01-18T01:45:17Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5132 #10 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5132/10/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5132:10</id>
+        <published>2018-01-18T00:52:50Z</published>
+        <updated>2018-01-18T00:52:50Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5135 #28 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5135/28/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5135:28</id>
+        <published>2018-01-18T00:52:49Z</published>
+        <updated>2018-01-18T00:52:49Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #5 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/5/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:5</id>
+        <published>2018-01-18T00:52:42Z</published>
+        <updated>2018-01-18T00:52:42Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5161 #2 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5161/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5161:2</id>
+        <published>2018-01-18T00:52:39Z</published>
+        <updated>2018-01-18T00:52:39Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #4 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/4/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:4</id>
+        <published>2018-01-17T22:51:57Z</published>
+        <updated>2018-01-17T22:51:57Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #657 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/657/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:657</id>
+        <published>2018-01-17T22:28:33Z</published>
+        <updated>2018-01-17T22:28:33Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5161 #1 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5161/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5161:1</id>
+        <published>2018-01-17T21:51:53Z</published>
+        <updated>2018-01-17T21:51:53Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » faster-static-docker-build #3 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/faster-static-docker-build/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/faster-static-docker-build:3</id>
+        <published>2018-01-17T21:50:10Z</published>
+        <updated>2018-01-17T21:50:10Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #3 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/3/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:3</id>
+        <published>2018-01-17T21:07:50Z</published>
+        <updated>2018-01-17T21:07:50Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #656 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/656/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:656</id>
+        <published>2018-01-17T20:47:59Z</published>
+        <updated>2018-01-17T20:47:59Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #655 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/655/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:655</id>
+        <published>2018-01-17T19:56:57Z</published>
+        <updated>2018-01-17T19:56:57Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5132 #9 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5132/9/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5132:9</id>
+        <published>2018-01-17T19:53:03Z</published>
+        <updated>2018-01-17T19:53:03Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5135 #27 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5135/27/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5135:27</id>
+        <published>2018-01-17T19:53:01Z</published>
+        <updated>2018-01-17T19:53:01Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #2 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/2/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:2</id>
+        <published>2018-01-17T19:52:50Z</published>
+        <updated>2018-01-17T19:52:50Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » master #58 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/master/58/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/master:58</id>
+        <published>2018-01-17T18:29:45Z</published>
+        <updated>2018-01-17T18:29:45Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #654 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/654/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:654</id>
+        <published>2018-01-17T18:28:54Z</published>
+        <updated>2018-01-17T18:28:54Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5159 #1 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5159/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5159:1</id>
+        <published>2018-01-17T18:17:42Z</published>
+        <updated>2018-01-17T18:17:42Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #653 (broken since build #651)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/653/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:653</id>
+        <published>2018-01-17T17:59:45Z</published>
+        <updated>2018-01-17T17:59:45Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #652 (broken since build #651)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/652/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:652</id>
+        <published>2018-01-17T15:50:25Z</published>
+        <updated>2018-01-17T15:50:25Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5132 #8 (broken since build #5)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5132/8/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5132:8</id>
+        <published>2018-01-17T14:53:16Z</published>
+        <updated>2018-01-17T14:53:16Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5135 #26 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5135/26/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5135:26</id>
+        <published>2018-01-17T14:53:14Z</published>
+        <updated>2018-01-17T14:53:14Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #651 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/651/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:651</id>
+        <published>2018-01-17T14:44:21Z</published>
+        <updated>2018-01-17T14:44:21Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » revert-5148-faster-static-docker-build #1 (stable)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/revert-5148-faster-static-docker-build/1/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/revert-5148-faster-static-docker-build:1</id>
+        <published>2018-01-17T14:42:07Z</published>
+        <updated>2018-01-17T14:42:07Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #650 (back to normal)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/650/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:650</id>
+        <published>2018-01-17T13:46:39Z</published>
+        <updated>2018-01-17T13:46:39Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » develop #649 (broken since this build)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/develop/649/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/develop:649</id>
+        <published>2018-01-17T11:48:21Z</published>
+        <updated>2018-01-17T11:48:21Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5135 #25 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5135/25/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5135:25</id>
+        <published>2018-01-16T20:10:10Z</published>
+        <updated>2018-01-16T20:10:10Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5132 #7 (broken since build #5)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5132/7/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5132:7</id>
+        <published>2018-01-16T18:53:00Z</published>
+        <updated>2018-01-16T18:53:00Z</updated>
+    </entry>
+    <entry>
+        <title>OnShift-OnShift » PR-5135 #24 (broken for a long time)</title>
+        <link rel="alternate" type="text/html" href="http://localhost:8080/view/OnShift-OnShift/job/OnShift-OnShift/job/PR-5135/24/"/>
+        <id>tag:hudson.dev.java.net,2018:OnShift-OnShift/PR-5135:24</id>
+        <published>2018-01-16T18:52:59Z</published>
+        <updated>2018-01-16T18:52:59Z</updated>
+    </entry>
+</feed>
